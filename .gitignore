@@ -1,0 +1,67 @@
+# Base de datos
+*.sqlite
+*.db
+data/
+
+# Archivos temporales
+temp/
+logs/
+uploads/
+
+# Configuración local
+config/local.php
+.env
+
+# PHP portable
+php/
+php-portable.zip
+usbwebserver/
+usbwebserver.zip
+xampp-portable-installer.exe
+
+# Node modules
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Playwright
+playwright-report/
+test-results/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+error.log
+access.log
+
+# Backups
+*.bak
+*.backup
+*.old
+
+# Archivos de depuración
+debug_*.php
+test_*.php
+check_*.php
+create_*.php
+fix_*.php
+update_*.php
+*.html
+
+# Documentación temporal
+*.md.backup
+resumen-*.md
+generacion-*.md
+programacion.md
+documentacion_*.md
